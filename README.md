@@ -1,4 +1,4 @@
-# Olá! eu sou o Everton. 👋
+# Olá!! Sejam muito bem-vindos! eu sou o Everton e sou apaixonado por tecnologia 👋
 
 <div align="center">
   <a href="https://github.com/evertonsouz4">

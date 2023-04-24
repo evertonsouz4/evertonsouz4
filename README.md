@@ -12,10 +12,11 @@
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Linguagens e Ferramentas</h1>
     <img align="center" height="30" width="40" alt="python-icon"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" height="30" width="40" alt="java-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
-    <img align="center" height="30" width="40" alt="psgsql-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /> &nbsp;
-    <img align="center" height="30" width="40" alt="arduino-icon"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
     <img align="center" height="30" width="40" alt="c-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+    <img align="center" height="30" width="40" alt="c++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+    <img align="center" height="30" width="40" alt="psgsql-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" /> &nbsp;
+    <img align="center" height="30" width="40" alt="arduino-icon"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
+    
     
     
    </div>

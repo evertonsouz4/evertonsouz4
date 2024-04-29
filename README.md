@@ -16,6 +16,7 @@
     <img align="center" height="30" width="40" alt="sqllite-icon"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
     <img align="center" height="30" width="40" alt="vim-icon"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
     <img align="center" height="30" width="40" alt="ardn-icon"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg">
+    <img align="center" height="30" width="40" alt="linux-icon"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg">
     <img align="center" height="30" width="40" alt="git-icon"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />&nbsp;
     
     

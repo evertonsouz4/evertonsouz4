@@ -12,9 +12,9 @@
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Linguagens e Ferramentas</h1>
     <img align="center" height="30" width="40" alt="c++-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-    <img align="center" height="30" width="40" alt="qt-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" /> 
     <img align="center" height="30" width="40" alt="python-icon"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
-    <img align="center" height="30" width="40" alt="linux-icon"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg">&nbsp;
+    <img align="center" height="30" width="40" alt="linux-icon"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg">
+    <img align="center" height="30" width="40" alt="qt-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-plain.svg" />&nbsp;
     
     
    </div>

@@ -1,4 +1,4 @@
-# Sejam muito bem-vindos! 👋
+# Sejam bem-vindos!
 
 <div align="center">
   <a href="https://github.com/evertonsouz4">
